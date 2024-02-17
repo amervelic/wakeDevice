@@ -1,6 +1,6 @@
 # wake_device
 
-Probudi ga jebote
+
 
 ## Getting Started
 
